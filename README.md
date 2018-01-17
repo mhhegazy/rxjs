@@ -7,6 +7,8 @@
 
 # RxJS 5
 
+[![Join the chat at https://gitter.im/rxjsy/Lobby](https://badges.gitter.im/rxjsy/Lobby.svg)](https://gitter.im/rxjsy/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Reactive Extensions Library for JavaScript. This is a rewrite of [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) and is the latest production-ready version of RxJS. This rewrite is meant to have better performance, better modularity, better debuggable call stacks, while staying mostly backwards compatible, with some breaking changes that reduce the API surface.
 
 [Apache 2.0 License](LICENSE.txt)
